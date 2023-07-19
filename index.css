@@ -100,7 +100,6 @@ scroll-behavior: smooth;
 
 #page2{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    justify-content:center;
 }
 
 .bread-1 h1{
@@ -708,4 +707,12 @@ small{
         color: white !important;
     }
 
+    #page2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    justify-content:center;
+    }
+
+    #bc-pastries{
+        flex-direction: column;
+    }
 }
