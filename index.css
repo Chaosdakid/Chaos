@@ -222,7 +222,7 @@ scroll-behavior: smooth;
 }
 
 .bp-img-1{
-    background-image: url(/img/black-burger.JPG);
+    background-image: url(./img/black-burger.JPG);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
