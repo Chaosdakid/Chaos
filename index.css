@@ -341,6 +341,11 @@ padding: 3em 0;
     line-height: 25px;
 }
 
+#bc-pastries{
+    display: flex;
+    flex-direction: column;
+}
+
 #wewouldliketohearfromyou{
     min-height: 60vh;
     background-color: bisque;
