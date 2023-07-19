@@ -100,6 +100,7 @@ scroll-behavior: smooth;
 
 #page2{
     font-family: Georgia, 'Times New Roman', Times, serif;
+    justify-content:center;
 }
 
 .bread-1 h1{
@@ -345,6 +346,7 @@ padding: 3em 0;
     background-color: bisque;
     display: flex;
     padding: 5em 0;
+    flex-direction: column;
 }
 
 .hear{
