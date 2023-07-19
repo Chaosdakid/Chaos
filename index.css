@@ -59,7 +59,7 @@ main{
 .main-logo{
     width: 150px;
     height: 150px;
-    background-image: url(/img/yellow-cube.jpg);
+    background-image: url(./img/burger-coke.jpg);
     background-size: cover;
     background-position: center;
     border-radius: 100px;
@@ -135,7 +135,7 @@ scroll-behavior: smooth;
 }
 
 .ourbread-1{
-    background-image: url(./img/black-burger.JPG);
+    background-image: url(./img/burger-coke.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -354,7 +354,7 @@ padding: 3em 0;
 
 .hear-img{
     /* min-height: ; */
-    background-image: url(/img/kung-fu\ panda.jpeg);
+    background-image: url(./img/burger-coke.jpg);
     flex-basis: 40%;
     background-position: center;
     background-size: cover;
@@ -407,15 +407,15 @@ background-color: white;
 }
 
 .bcp-img-1{
-    background-image: url(/img/black-burger.JPG);
+    background-image: url(./img/black-burger.JPG);
 }
 
 .bcp-img-2{
-    background-image: url(/img/black-burger.JPG);
+    background-image: url(./img/black-burger.JPG);
 }
 
 .bcp-img-3{
-    background-image: url(/img/black-burger.JPG);
+    background-image: url(./img/black-burger.JPG);
 }
 
 #bcp-wrapper h2{
@@ -446,7 +446,7 @@ footer{
 #footer-img{
     width: 150px;
     height: 150px;
-    background-image: url(/img/yellow-cube.jpg);
+    background-image: url(./img/yellow-cube.jpg);
     background-size: cover;
     background-position: center;
     border-radius: 100px;
